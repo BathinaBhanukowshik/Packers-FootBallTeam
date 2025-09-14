@@ -1,0 +1,52 @@
+[
+  {
+    "player_id": 1,
+    "name": "Aaron Rodgers",
+    "position": "Quarterback",
+    "age": 39,
+    "nationality": "USA",
+    "goals_scored": 0,
+    "touchdowns": 26,
+    "team": "Green Bay Packers"
+  },
+  {
+    "player_id": 2,
+    "name": "Aaron Jones",
+    "position": "Running Back",
+    "age": 28,
+    "nationality": "USA",
+    "goals_scored": 0,
+    "touchdowns": 7,
+    "team": "Green Bay Packers"
+  },
+  {
+    "player_id": 3,
+    "name": "Davante Adams",
+    "position": "Wide Receiver",
+    "age": 30,
+    "nationality": "USA",
+    "goals_scored": 0,
+    "touchdowns": 11,
+    "team": "Green Bay Packers"
+  },
+  {
+    "player_id": 4,
+    "name": "Mason Crosby",
+    "position": "Kicker",
+    "age": 39,
+    "nationality": "USA",
+    "goals_scored": 25,
+    "touchdowns": 0,
+    "team": "Green Bay Packers"
+  },
+  {
+    "player_id": 5,
+    "name": "Jaire Alexander",
+    "position": "Cornerback",
+    "age": 27,
+    "nationality": "USA",
+    "goals_scored": 0,
+    "touchdowns": 1,
+    "team": "Green Bay Packers"
+  }
+]
